@@ -264,3 +264,6 @@ __pycache__/
 /Singleton/Singleton.sln
 *.vcxproj
 *.filters
+*.sln
+/Decorator/pch.cpp
+/Decorator/pch.h
