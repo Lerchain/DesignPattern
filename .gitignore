@@ -267,3 +267,5 @@ __pycache__/
 *.sln
 /Decorator/pch.cpp
 /Decorator/pch.h
+/Proxy/pch.cpp
+/Proxy/pch.h
