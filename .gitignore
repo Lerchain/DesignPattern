@@ -269,3 +269,5 @@ __pycache__/
 /Decorator/pch.h
 /Proxy/pch.cpp
 /Proxy/pch.h
+/Strategy/pch.cpp
+/Strategy/pch.h
