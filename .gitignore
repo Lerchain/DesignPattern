@@ -271,3 +271,5 @@ __pycache__/
 /Proxy/pch.h
 /Strategy/pch.cpp
 /Strategy/pch.h
+/Factory/pch.cpp
+/Factory/pch.h
